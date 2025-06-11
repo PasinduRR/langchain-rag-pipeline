@@ -1,0 +1,4 @@
+Prompt engineering is like giving clear directions to a super-smart but slightly confused friend. Without guidance, large language models (LLMs) like Google’s Gemini, ChatGPT, DeepSeek can churn out vague or off-target answers. Google’s whitepaper, by Lee Boonstra, explains that LLMs predict the next word based on their training and your input.
+A sloppy prompt means sloppy results, a clear prompt delivers exactly what you need.
+These techniques, echoed in tips shared across tech communities, help anyone, beginners or experts, make AI shine for everyday tasks like writing, planning, or brainstorming.
+Let’s dive into the 10 easy ways to level up your AI game.

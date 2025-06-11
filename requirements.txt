@@ -1,0 +1,7 @@
+langchain_community
+pypdf
+sentence-transformers
+hf_xet
+chromadb
+faiss-cpu
+langchain_google_genai
